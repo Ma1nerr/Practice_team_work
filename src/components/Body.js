@@ -2,6 +2,12 @@ import UserCard from './User/UserCard';
 
 const users = [
   {
+    id: 0,
+    name: 'Nazarii Fito',
+    position: 'Frontend Developer',
+    avatar: 'avatars/nazarii_fito_logo.png',
+  },
+  {
     id: 1,
     name: 'Nazar Sokolskyi',
     position: 'Software Enginer',
