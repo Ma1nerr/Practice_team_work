@@ -3,9 +3,9 @@ import UserCard from './User/UserCard';
 const users = [
   {
     id: 1,
-    name: 'John Doe',
-    position: 'Software engineer',
-    avatar: 'avatars//avatar-default.png',
+    name: 'Semenyshyn Artur',
+    position: 'Junior designer',
+    avatar: 'avatars//Semenyshyn.png',
   },
 ];
 
