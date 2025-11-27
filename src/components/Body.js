@@ -13,6 +13,12 @@ const users = [
     position: 'Software Enginer',
     avatar: 'avatars//avatar-default.png',
   },
+  {
+    id: 2,
+    name: 'Semenyshyn Artur',
+    position: 'Junior designer',
+    avatar: 'avatars//Semenyshyn.png',
+  },
 ];
 
 const Body = () => {
