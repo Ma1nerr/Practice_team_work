@@ -19,6 +19,12 @@ const users = [
     position: 'Junior designer',
     avatar: 'avatars//Semenyshyn.jpg',
   },
+  {
+    id: 3,
+    name: 'Ivanna Kutryk',
+    position: 'Backend Developer',
+    avatar: 'avatars//ivanka_kutryk_2.png',
+  },
 ];
 
 const Body = () => {
