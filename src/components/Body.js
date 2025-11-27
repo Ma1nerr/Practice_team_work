@@ -7,6 +7,12 @@ const users = [
     position: 'Frontend Developer',
     avatar: 'avatars/nazarii_fito_logo.png',
   },
+  {
+    id: 1,
+    name: 'Nazar Sokolskyi',
+    position: 'Software Enginer',
+    avatar: 'avatars//avatar-default.png',
+  },
 ];
 
 const Body = () => {
