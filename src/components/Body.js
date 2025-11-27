@@ -2,10 +2,10 @@ import UserCard from './User/UserCard';
 
 const users = [
   {
-    id: 1,
-    name: 'John Doe',
-    position: 'Software engineer',
-    avatar: 'avatars//avatar-default.png',
+    id: 0,
+    name: 'Nazarii Fito',
+    position: 'Frontend Developer',
+    avatar: 'avatars/nazarii_fito_logo.png',
   },
 ];
 
