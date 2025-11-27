@@ -25,6 +25,12 @@ const users = [
     position: 'Backend Developer',
     avatar: 'avatars//ivanka_kutryk_2.png',
   },
+  {
+    id: 4,
+    name: 'Viktoria Lepsha',
+    position: 'Backend Developer',
+    avatar: 'avatars//viktoriia_lepsha.png'
+  }
 ];
 
 const Body = () => {
