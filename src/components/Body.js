@@ -17,7 +17,7 @@ const users = [
     id: 2,
     name: 'Semenyshyn Artur',
     position: 'Junior designer',
-    avatar: 'avatars//Semenyshyn.png',
+    avatar: 'avatars//Semenyshyn.jpg',
   },
 ];
 
