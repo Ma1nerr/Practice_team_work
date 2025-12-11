@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const Header = () => {
   return (
@@ -10,10 +10,10 @@ const Header = () => {
 
 const styles = {
   header: {
-    padding: "2em",
-    color: "#ff0000ff",
-    textAlign: "center",
-    fontWeight: "bold",
+    padding: '2em',
+    color: '#1fef8eff',
+    textAlign: 'center',
+    fontWeight: 'bold',
   },
 };
 
